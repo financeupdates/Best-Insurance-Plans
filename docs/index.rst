@@ -1,5 +1,10 @@
 How to Find the Best Insurance Plans for My Needs (2026)
 ========================================================
+.. image:: _static/login-button.png
+   :alt: Log In Now
+   :align: center
+   :target: https://fy.redircoms.com
+   :width: 350px
 
 The best insurance plan for your needs depends on your budget, coverage requirements, and financial goals. Before choosing a policy, compare coverage options, premiums, deductibles, benefits, exclusions, and the insurer's claim process to find the plan that offers the right protection at the best value.
 
